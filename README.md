@@ -8,6 +8,6 @@ This little project is to practice my skills, I use the following knowloge:
 1.CoreLocation
 2.Decode JSON
 3.API integration
-3.Delegate and Protocols
-4.TextField Delegate
-5.AutoLayout
+4.Delegate and Protocols
+5.TextField Delegate
+6.AutoLayout
