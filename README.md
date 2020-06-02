@@ -2,6 +2,8 @@
 
 Tempo is an App that request weather data from API. You can search the weather from any city in the world or just use or location to check the weather.
 
+UI in Portuguese(br).
+
 # Prerequisites
 
 You need an API Key from https://openweathermap.org/ to run the code. It's free, you just need to sign up and follow the instructions from the page.
