@@ -1,13 +1,31 @@
 # Tempo
-Tempo is an App that request weather data from API. You can search the weather from any city in the world or just use or location to check the weather!
 
-You must sign up at https://openweathermap.org/ to get you API Key, after you get the key simply go to WeatherManager file and past it on "YOUR_API_HERE"
+Tempo is an App that request weather data from API. You can search the weather from any city in the world or just use or location to check the weather.
 
-This little project is to practice my skills, I use the following knowloge:
+# Prerequisites
 
-1.CoreLocation
-2.Decode JSON
-3.API integration
-4.Delegate and Protocols
-5.TextField Delegate
-6.AutoLayout
+You need an API Key from https://openweathermap.org/ to run the code. It's free, you just need to sign up and follow the instructions from the page.
+
+After you get your API Key go to WeatherManager.swift file and past it on "YOUR_API_HERE". Do not remove "" (parentheses), API Key should be a String.
+
+If you have any questions, please feel free to contact me.
+
+# Observation
+
+Openweather API are not providing data like maximum and minimum temperature for all cities, if your city does not have this information the max and min temperature will be the actual temperature.
+
+# Screenshots
+
+
+
+# Authors
+Ivan Geier
+
+# License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+# Acknowledgments
+
+URL Session
+REST API
+JSON Data
