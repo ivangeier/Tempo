@@ -22,7 +22,7 @@ Openweather API are not providing data like maximum and minimum temperature for 
 Ivan Geier
 
 # License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ivangeier/Tempo/blob/master/LICENSE) file for details
 
 # Acknowledgments
 
