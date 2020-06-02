@@ -18,8 +18,7 @@ Openweather API are not providing data like maximum and minimum temperature for 
 
 # Screenshots
 
-![](Screenshot.png)
-
+![](Screenshot.png =x100)
 # Authors
 Ivan Geier
 
