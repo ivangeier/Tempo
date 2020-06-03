@@ -8,7 +8,7 @@ UI in Portuguese(br).
 
 You need an API Key from https://openweathermap.org/ to run the code. It's free, you just need to sign up and follow the instructions from the page.
 
-After you get your API Key go to WeatherManager.swift file and past it on "YOUR_API_HERE". Do not remove "" (parentheses), API Key should be a String.
+After you get your API Key go to WeatherManager.swift file and past it on "YOUR_API_HERE". Do not remove "" (double quotation mark), API Key should be a String.
 
 If you have any questions, please feel free to contact me.
 
